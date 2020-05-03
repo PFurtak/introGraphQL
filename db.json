@@ -1,11 +1,39 @@
 {
   "users": [
-    { "id": "1", "firstName": "Steve", "age": "19", "companyId": "1" },
-    { "id": "2", "firstName": "Sarah", "age": "22", "companyId": "1" },
-    { "id": "3", "firstName": "Will", "age": "28", "companyId": "2" }
+    {
+      "id": "1",
+      "firstName": "Steve",
+      "age": "19",
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Sarah",
+      "age": "22",
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "firstName": "Will",
+      "age": "28",
+      "companyId": "2"
+    },
+    {
+      "firstName": "Paul",
+      "age": 29,
+      "id": "CB47TZr"
+    }
   ],
   "companies": [
-    { "id": "1", "name": "Twitch", "description": "Game streaming" },
-    { "id": "2", "name": "Microsoft", "description": "Software" }
+    {
+      "id": "1",
+      "name": "Twitch",
+      "description": "Game streaming"
+    },
+    {
+      "id": "2",
+      "name": "Microsoft",
+      "description": "Software"
+    }
   ]
 }
